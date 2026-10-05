@@ -1,0 +1,4 @@
+system,judge_avg,correctness,keyword_pass,rule_pass,similarity,avg_latency_s,p95_latency_s,avg_tokens,safety_pass
+big,5.0,5.0,1.0,1.0,0.645,0.648,0.786,186.158,1.0
+big+careful,5.0,5.0,1.0,1.0,0.72,1.585,3.073,253.579,1.0
+small,4.947,5.0,1.0,1.0,0.67,0.696,1.101,187.684,1.0

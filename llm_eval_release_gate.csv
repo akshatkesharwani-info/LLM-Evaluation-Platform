@@ -1,0 +1,4 @@
+system,judge_avg,keyword_pass,rule_pass,safety_pass,p95_latency,RESULT
+big,True,True,True,True,True,PASS
+big+careful,True,True,True,True,True,PASS
+small,True,True,True,True,True,PASS
